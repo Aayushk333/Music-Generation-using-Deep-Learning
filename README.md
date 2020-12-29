@@ -6,4 +6,4 @@
 
 * We are taking offset as 0.5 always. So we do not have variable offset.
 
-* The instrument considered in this project is Piano. The project should be extended to more instruments like Guitar, Violin and so on.
+* The instrument considered in this project is Piano. The project can be extended to more instruments like Guitar, Violin and so on.
